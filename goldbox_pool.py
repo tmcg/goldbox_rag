@@ -1,0 +1,55 @@
+
+
+__all__ = ('get_urls')
+
+_urls_pool = [
+        # GameBanshee Pool of Radiance Walkthrough
+        "https://www.gamebanshee.com/poolofradiance/armor.php",
+        "https://www.gamebanshee.com/poolofradiance/meleeweapons.php",
+        "https://www.gamebanshee.com/poolofradiance/rangedweapons.php",
+        "https://www.gamebanshee.com/poolofradiance/miscellaneous.php",
+        "https://www.gamebanshee.com/poolofradiance/companions.php",
+        "https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php",
+        "https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php",
+        "https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php",
+        "https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php",
+        "https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php",
+        "https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php",
+        "https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php",
+        "https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php",
+        "https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php",
+        "https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php",        
+        "https://www.gamebanshee.com/poolofradiance/classes.php",
+        "https://www.gamebanshee.com/poolofradiance/races.php",
+        "https://www.gamebanshee.com/poolofradiance/attributes.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php",
+        "https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php",
+]
+
+def get_urls():
+    return _urls_pool

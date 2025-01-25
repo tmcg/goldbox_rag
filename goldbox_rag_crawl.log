@@ -1,0 +1,140 @@
+[2025-01-25 22:36:33] INFO gbox - Using LLM model: llama3.2
+[2025-01-25 22:36:33] INFO gbox - Using Embedding model: llama3.2
+[2025-01-25 22:36:33] INFO gbox - Resetting all URLs
+[2025-01-25 22:36:35] INFO gbox - Found 45 URLs to crawl
+[2025-01-25 22:36:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-25 22:36:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-25 22:36:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-25 22:36:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-25 22:36:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-25 22:36:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-25 22:36:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-25 22:36:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-25 22:36:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-25 22:36:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-25 22:36:40] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-25 22:36:40] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-25 22:36:41] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-25 22:36:41] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-25 22:36:42] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-25 22:36:44] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-25 22:36:44] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-25 22:36:44] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-25 22:36:44] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-25 22:36:44] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-25 22:36:44] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-25 22:36:44] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-25 22:36:44] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-25 22:36:44] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-25 22:36:44] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-25 22:36:46] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-25 22:36:46] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-25 22:36:47] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-25 22:36:47] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-25 22:36:48] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-25 22:36:49] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-25 22:36:49] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-25 22:36:49] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-25 22:36:49] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-25 22:36:49] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-25 22:36:49] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-25 22:36:50] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php
+[2025-01-25 22:36:50] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php
+[2025-01-25 22:36:50] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-25 22:36:51] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php
+[2025-01-25 22:36:51] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php
+[2025-01-25 22:36:51] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-25 22:36:52] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-25 22:36:52] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php
+[2025-01-25 22:36:53] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php
+[2025-01-25 22:36:53] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/classes.php
+[2025-01-25 22:36:53] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/classes.php
+[2025-01-25 22:36:54] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/attributes.php
+[2025-01-25 22:36:54] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/attributes.php
+[2025-01-25 22:36:54] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/classes.php
+[2025-01-25 22:36:54] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/races.php
+[2025-01-25 22:36:54] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/races.php
+[2025-01-25 22:36:55] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php
+[2025-01-25 22:36:55] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php
+[2025-01-25 22:36:55] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php
+[2025-01-25 22:36:55] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php
+[2025-01-25 22:36:56] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/attributes.php
+[2025-01-25 22:36:56] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php
+[2025-01-25 22:36:56] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php
+[2025-01-25 22:36:56] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/races.php
+[2025-01-25 22:36:57] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php
+[2025-01-25 22:36:57] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php
+[2025-01-25 22:36:58] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php
+[2025-01-25 22:36:58] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-25 22:36:58] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-25 22:37:00] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php
+[2025-01-25 22:37:00] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php
+[2025-01-25 22:37:00] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php
+[2025-01-25 22:37:00] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php
+[2025-01-25 22:37:00] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php
+[2025-01-25 22:37:00] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php
+[2025-01-25 22:37:00] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php
+[2025-01-25 22:37:00] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php
+[2025-01-25 22:37:02] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-25 22:37:02] INFO gbox - Inserting chunk 1 for https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-25 22:37:02] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php
+[2025-01-25 22:37:03] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php
+[2025-01-25 22:37:03] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php
+[2025-01-25 22:37:04] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php
+[2025-01-25 22:37:05] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php
+[2025-01-25 22:37:05] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php
+[2025-01-25 22:37:05] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php
+[2025-01-25 22:37:05] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php
+[2025-01-25 22:37:05] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php
+[2025-01-25 22:37:05] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php
+[2025-01-25 22:37:06] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php
+[2025-01-25 22:37:06] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php
+[2025-01-25 22:37:06] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php
+[2025-01-25 22:37:06] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php
+[2025-01-25 22:37:07] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php
+[2025-01-25 22:37:07] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php
+[2025-01-25 22:37:08] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php
+[2025-01-25 22:37:09] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php
+[2025-01-25 22:37:09] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php
+[2025-01-25 22:37:10] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php
+[2025-01-25 22:37:10] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php
+[2025-01-25 22:37:10] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php
+[2025-01-25 22:37:10] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php
+[2025-01-25 22:37:10] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php
+[2025-01-25 22:37:10] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php
+[2025-01-25 22:37:11] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php
+[2025-01-25 22:37:12] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php
+[2025-01-25 22:37:12] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php
+[2025-01-25 22:37:12] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php
+[2025-01-25 22:37:12] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php
+[2025-01-25 22:37:12] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php
+[2025-01-25 22:37:13] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php
+[2025-01-25 22:37:14] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php
+[2025-01-25 22:37:14] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php
+[2025-01-25 22:37:14] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php
+[2025-01-25 22:37:15] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php
+[2025-01-25 22:37:15] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php
+[2025-01-25 22:37:15] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php
+[2025-01-25 22:37:15] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php
+[2025-01-25 22:37:15] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php
+[2025-01-25 22:37:16] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php
+[2025-01-25 22:37:17] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php
+[2025-01-25 22:37:17] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php
+[2025-01-25 22:37:17] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php
+[2025-01-25 22:37:17] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php
+[2025-01-25 22:37:17] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php
+[2025-01-25 22:37:18] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php
+[2025-01-25 22:37:19] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php
+[2025-01-25 22:37:19] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php
+[2025-01-25 22:37:19] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php
+[2025-01-25 22:37:19] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php
+[2025-01-25 22:37:20] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php
+[2025-01-25 22:37:21] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
+[2025-01-25 22:37:21] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
+[2025-01-25 22:37:21] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
+[2025-01-25 22:37:21] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
+[2025-01-25 22:37:21] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
+[2025-01-25 22:37:21] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
+[2025-01-25 22:37:22] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
+[2025-01-25 22:37:23] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
+[2025-01-25 22:37:24] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
