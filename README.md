@@ -1,14 +1,19 @@
 
 ### Python Virtual Environment
 
-# Creation
+#### Creation
+
+```
 mkdir venv
 python -m venv ./venv
+```
 
-# Activation (via Powershell)
+#### Activation (via Powershell)
+
+```
 ./venv/scripts/activate.ps1
 pip install -r ./requirements.txt
-
+```
 
 ### Crawling Topic page URLs
 
