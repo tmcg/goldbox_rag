@@ -1,4 +1,4 @@
-import os, json, asyncio, logging
+import os, json, asyncio, logging, time
 import system_prompts
 
 from typing import List, Dict, Any
@@ -90,6 +90,7 @@ async def get_summary(chunk: str, url: str) -> Dict[str, str]:
         system_content = system_prompts.extract_summary
         user_content = f"The URL is '{url}'. The document content is {chunk[:1000]}"
 
+        #time.sleep(2)
         response = await deps.openai.chat.completions.create(
             model = deps.llm_model,
             messages = [
@@ -111,6 +112,7 @@ async def get_summary(chunk: str, url: str) -> Dict[str, str]:
 
 async def get_embedding(text: str, client: AsyncOpenAI, embed_model: str, embed_dims: int) -> List[float]:
     try:
+        #time.sleep(2)
         response = await client.embeddings.create(
             model = embed_model,
             input = text
@@ -184,7 +186,7 @@ async def process_document(url: str, markdown: str):
     await asyncio.gather(*insert_tasks)
 
 
-async def crawl_walkthrough_urls(urls: List[str], max_concurrent: int = 5):
+async def crawl_walkthrough_urls(urls: List[str], max_concurrent: int = 1):
     browser_config = BrowserConfig(
         headless=True,
         verbose=False,
@@ -216,7 +218,7 @@ async def crawl_walkthrough_urls(urls: List[str], max_concurrent: int = 5):
                     logger.info(f"Successfully crawled: {url}")
                     await process_document(url, result.markdown_v2.raw_markdown)
                 else:
-                    logger.warning(f"Failed: {url} - Error: {result.error.message}")
+                    logger.warning(f"Failed: {url} - Error: {result.error_message}")
 
                 return url
 
@@ -236,8 +238,8 @@ def reset_walkthrough_urls():
 
 def get_walkthrough_urls() -> List[str]:
     reset_walkthrough_urls()
-    from goldbox_pool import get_urls as get_urls_pool
-    return get_urls_pool()
+    from goldbox_urls import get_urls as get_urls
+    return get_urls()
 
 
 async def main():

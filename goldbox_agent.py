@@ -56,7 +56,8 @@ async def retrieve_walkthrough_documents(ctx: RunContext[ExternalDeps], user_que
         print(f"calling retrieve_walkthrough_documents for: {user_query}")
 
         result = ctx.deps.supabase.rpc(
-            'match_site_pages_3k',
+            #'match_site_pages_3k',
+            'match_site_pages',
             {
                 'query_embedding': query_embedding,
                 'match_count': 5,

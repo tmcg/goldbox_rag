@@ -138,3 +138,343 @@
 [2025-01-25 22:37:22] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
 [2025-01-25 22:37:23] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
 [2025-01-25 22:37:24] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
+[2025-01-29 08:59:15] INFO gbox - Using LLM model: gpt-4o-mini
+[2025-01-29 08:59:15] INFO gbox - Using Embedding model: text-embedding-3-small
+[2025-01-29 08:59:15] INFO gbox - Resetting all URLs
+[2025-01-29 08:59:16] INFO gbox - Found 45 URLs to crawl
+[2025-01-29 08:59:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 08:59:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 08:59:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 08:59:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 08:59:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 08:59:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 08:59:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 08:59:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 08:59:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 08:59:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.454369 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.416122 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.401692 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.382130 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.424508 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.797464 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.970133 seconds
+[2025-01-29 08:59:25] INFO openai._base_client - Retrying request to /chat/completions in 0.833715 seconds
+[2025-01-29 08:59:26] INFO openai._base_client - Retrying request to /chat/completions in 0.879498 seconds
+[2025-01-29 08:59:26] INFO openai._base_client - Retrying request to /chat/completions in 0.816783 seconds
+[2025-01-29 08:59:27] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 08:59:27] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 08:59:27] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 08:59:27] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 08:59:27] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 08:59:27] INFO openai._base_client - Retrying request to /embeddings in 0.436313 seconds
+[2025-01-29 08:59:27] INFO openai._base_client - Retrying request to /embeddings in 0.408669 seconds
+[2025-01-29 08:59:27] INFO openai._base_client - Retrying request to /embeddings in 0.477562 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.383822 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.397205 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.921818 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.830192 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.947415 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.803439 seconds
+[2025-01-29 08:59:28] INFO openai._base_client - Retrying request to /embeddings in 0.846731 seconds
+[2025-01-29 08:59:29] ERROR gbox - Error getting embedding: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 08:59:29] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:03:16] INFO gbox - Using LLM model: gpt-4o-mini
+[2025-01-29 09:03:16] INFO gbox - Using Embedding model: text-embedding-3-small
+[2025-01-29 09:03:16] INFO gbox - Resetting all URLs
+[2025-01-29 09:03:17] INFO gbox - Found 45 URLs to crawl
+[2025-01-29 09:03:19] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:03:19] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:03:19] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:03:19] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:03:19] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:03:19] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:03:19] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:03:19] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:03:19] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:03:19] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:03:20] INFO openai._base_client - Retrying request to /chat/completions in 0.441904 seconds
+[2025-01-29 09:03:20] INFO openai._base_client - Retrying request to /chat/completions in 0.402852 seconds
+[2025-01-29 09:03:20] INFO openai._base_client - Retrying request to /chat/completions in 0.451279 seconds
+[2025-01-29 09:03:20] INFO openai._base_client - Retrying request to /chat/completions in 0.411123 seconds
+[2025-01-29 09:03:20] INFO openai._base_client - Retrying request to /chat/completions in 0.423063 seconds
+[2025-01-29 09:03:21] INFO openai._base_client - Retrying request to /chat/completions in 0.933238 seconds
+[2025-01-29 09:03:21] INFO openai._base_client - Retrying request to /chat/completions in 0.857757 seconds
+[2025-01-29 09:03:21] INFO openai._base_client - Retrying request to /chat/completions in 0.782018 seconds
+[2025-01-29 09:03:21] INFO openai._base_client - Retrying request to /chat/completions in 0.935833 seconds
+[2025-01-29 09:03:21] INFO openai._base_client - Retrying request to /chat/completions in 0.820017 seconds
+[2025-01-29 09:03:22] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:22] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:22] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:22] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:22] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:22] INFO openai._base_client - Retrying request to /embeddings in 0.495942 seconds
+[2025-01-29 09:03:22] INFO openai._base_client - Retrying request to /embeddings in 0.428873 seconds
+[2025-01-29 09:03:22] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:03:23] INFO openai._base_client - Retrying request to /embeddings in 0.471633 seconds
+[2025-01-29 09:03:23] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:03:23] INFO openai._base_client - Retrying request to /embeddings in 0.794157 seconds
+[2025-01-29 09:03:24] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:03:24] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:03:25] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:03:26] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-29 09:03:26] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-29 09:03:26] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-29 09:03:26] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-29 09:03:26] INFO openai._base_client - Retrying request to /chat/completions in 0.407227 seconds
+[2025-01-29 09:03:26] INFO openai._base_client - Retrying request to /chat/completions in 0.474398 seconds
+[2025-01-29 09:03:26] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-29 09:03:26] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-29 09:03:26] INFO openai._base_client - Retrying request to /chat/completions in 0.951266 seconds
+[2025-01-29 09:03:26] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-29 09:03:26] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-29 09:03:27] INFO openai._base_client - Retrying request to /chat/completions in 0.801169 seconds
+[2025-01-29 09:03:27] INFO openai._base_client - Retrying request to /chat/completions in 0.423359 seconds
+[2025-01-29 09:03:27] INFO openai._base_client - Retrying request to /chat/completions in 0.447277 seconds
+[2025-01-29 09:03:27] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-29 09:03:27] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-29 09:03:27] INFO openai._base_client - Retrying request to /chat/completions in 0.839408 seconds
+[2025-01-29 09:03:27] INFO openai._base_client - Retrying request to /chat/completions in 0.855052 seconds
+[2025-01-29 09:03:28] INFO openai._base_client - Retrying request to /chat/completions in 0.409664 seconds
+[2025-01-29 09:03:28] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:28] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:28] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-29 09:03:28] INFO openai._base_client - Retrying request to /chat/completions in 0.846637 seconds
+[2025-01-29 09:03:29] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-29 09:03:29] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:29] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:29] INFO openai._base_client - Retrying request to /embeddings in 0.450965 seconds
+[2025-01-29 09:03:29] INFO openai._base_client - Retrying request to /embeddings in 0.400722 seconds
+[2025-01-29 09:03:29] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:03:30] INFO openai._base_client - Retrying request to /embeddings in 0.779162 seconds
+[2025-01-29 09:03:30] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-29 09:03:30] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-29 09:03:30] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-29 09:03:30] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-29 09:03:31] INFO openai._base_client - Retrying request to /chat/completions in 0.416608 seconds
+[2025-01-29 09:03:31] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-29 09:03:31] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-29 09:03:31] INFO openai._base_client - Retrying request to /chat/completions in 0.498247 seconds
+[2025-01-29 09:03:31] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-29 09:03:31] INFO openai._base_client - Retrying request to /chat/completions in 0.894087 seconds
+[2025-01-29 09:03:32] INFO openai._base_client - Retrying request to /chat/completions in 0.916391 seconds
+[2025-01-29 09:03:32] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-29 09:03:32] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-29 09:03:32] ERROR asyncio - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php", waiting until "domcontentloaded"
+
+[2025-01-29 09:03:32] ERROR asyncio - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php", waiting until "domcontentloaded"
+
+[2025-01-29 09:07:04] INFO gbox - Using LLM model: gpt-4o-mini
+[2025-01-29 09:07:04] INFO gbox - Using Embedding model: text-embedding-3-small
+[2025-01-29 09:07:04] INFO gbox - Resetting all URLs
+[2025-01-29 09:07:05] INFO gbox - Found 45 URLs to crawl
+[2025-01-29 09:07:08] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:07:08] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:07:10] INFO openai._base_client - Retrying request to /chat/completions in 0.407090 seconds
+[2025-01-29 09:07:11] INFO openai._base_client - Retrying request to /chat/completions in 0.867911 seconds
+[2025-01-29 09:07:12] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:07:15] INFO openai._base_client - Retrying request to /embeddings in 0.443109 seconds
+[2025-01-29 09:07:15] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:07:16] ERROR asyncio - Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to "https://www.gamebanshee.com/poolofradiance/meleeweapons.php", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://www.gamebanshee.com/poolofradiance/meleeweapons.php", waiting until "domcontentloaded"
+
+[2025-01-29 09:14:58] INFO gbox - Using LLM model: gpt-4o-mini
+[2025-01-29 09:14:58] INFO gbox - Using Embedding model: text-embedding-3-small
+[2025-01-29 09:14:58] INFO gbox - Resetting all URLs
+[2025-01-29 09:14:59] INFO gbox - Found 45 URLs to crawl
+[2025-01-29 09:15:02] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:15:02] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:15:05] INFO openai._base_client - Retrying request to /chat/completions in 0.419235 seconds
+[2025-01-29 09:15:05] INFO openai._base_client - Retrying request to /chat/completions in 0.947504 seconds
+[2025-01-29 09:15:07] ERROR gbox - Error getting title and summary: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-01-29 09:15:09] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:15:11] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:15:11] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:15:13] INFO openai._base_client - Retrying request to /chat/completions in 0.469642 seconds
+[2025-01-29 09:15:14] INFO openai._base_client - Retrying request to /chat/completions in 0.876735 seconds
+[2025-01-29 09:15:19] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:15:22] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:15:22] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:15:28] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:15:30] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:15:30] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:15:36] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:15:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:15:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:15:45] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:15:46] ERROR asyncio - Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to "https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php", waiting until "domcontentloaded"
+
+[2025-01-29 09:17:13] INFO gbox - Using LLM model: gpt-4o-mini
+[2025-01-29 09:17:13] INFO gbox - Using Embedding model: text-embedding-3-small
+[2025-01-29 09:17:13] INFO gbox - Resetting all URLs
+[2025-01-29 09:17:14] INFO gbox - Found 45 URLs to crawl
+[2025-01-29 09:17:16] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:17:16] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:17:19] INFO openai._base_client - Retrying request to /chat/completions in 0.467325 seconds
+[2025-01-29 09:17:24] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:17:26] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:17:26] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:17:32] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:17:34] ERROR asyncio - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.gamebanshee.com/poolofradiance/rangedweapons.php", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.gamebanshee.com/poolofradiance/rangedweapons.php", waiting until "domcontentloaded"
+
+[2025-01-29 09:17:53] INFO gbox - Using LLM model: gpt-4o-mini
+[2025-01-29 09:17:53] INFO gbox - Using Embedding model: text-embedding-3-small
+[2025-01-29 09:17:53] INFO gbox - Resetting all URLs
+[2025-01-29 09:17:53] INFO gbox - Found 45 URLs to crawl
+[2025-01-29 09:17:56] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:17:56] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:17:58] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/armor.php
+[2025-01-29 09:18:01] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:18:01] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:18:03] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/meleeweapons.php
+[2025-01-29 09:18:05] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:18:05] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:18:07] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/rangedweapons.php
+[2025-01-29 09:18:09] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:18:09] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:18:12] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/miscellaneous.php
+[2025-01-29 09:18:14] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:18:14] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:18:16] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/companions.php
+[2025-01-29 09:18:18] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-29 09:18:18] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-29 09:18:21] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/0-c.php
+[2025-01-29 09:18:23] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-29 09:18:23] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-29 09:18:25] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/d-i.php
+[2025-01-29 09:18:27] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-29 09:18:27] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-29 09:18:29] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/j-s.php
+[2025-01-29 09:18:31] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-29 09:18:31] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-29 09:18:33] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/bestiary/t-z.php
+[2025-01-29 09:18:35] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-29 09:18:35] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-29 09:18:37] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericlevelone.php
+[2025-01-29 09:18:41] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-29 09:18:41] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-29 09:18:44] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericleveltwo.php
+[2025-01-29 09:18:46] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-29 09:18:46] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-29 09:18:48] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/clericlevelthree.php
+[2025-01-29 09:18:50] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-29 09:18:50] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-29 09:18:52] INFO openai._base_client - Retrying request to /embeddings in 0.415571 seconds
+[2025-01-29 09:18:53] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/magelevelone.php
+[2025-01-29 09:18:55] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php
+[2025-01-29 09:18:55] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php
+[2025-01-29 09:18:58] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/mageleveltwo.php
+[2025-01-29 09:19:00] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php
+[2025-01-29 09:19:00] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php
+[2025-01-29 09:19:03] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/spells/magelevelthree.php
+[2025-01-29 09:19:05] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/classes.php
+[2025-01-29 09:19:05] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/classes.php
+[2025-01-29 09:19:07] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/classes.php
+[2025-01-29 09:19:09] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/races.php
+[2025-01-29 09:19:09] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/races.php
+[2025-01-29 09:19:11] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/races.php
+[2025-01-29 09:19:13] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/attributes.php
+[2025-01-29 09:19:13] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/attributes.php
+[2025-01-29 09:19:16] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/attributes.php
+[2025-01-29 09:19:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php
+[2025-01-29 09:19:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php
+[2025-01-29 09:19:27] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/gameplaytips.php
+[2025-01-29 09:19:34] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php
+[2025-01-29 09:19:34] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php
+[2025-01-29 09:19:36] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/troubleshooting.php
+[2025-01-29 09:19:50] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php
+[2025-01-29 09:19:50] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php
+[2025-01-29 09:19:54] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/charactercreation.php
+[2025-01-29 09:20:08] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-29 09:20:08] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-29 09:20:10] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-29 09:20:10] INFO gbox - Inserting chunk 1 for https://www.gamebanshee.com/poolofradiance/walkthrough/civilizeddistrict.php
+[2025-01-29 09:20:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php
+[2025-01-29 09:20:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php
+[2025-01-29 09:20:26] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/theslums.php
+[2025-01-29 09:20:40] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php
+[2025-01-29 09:20:40] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php
+[2025-01-29 09:20:43] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/sokalkeep.php
+[2025-01-29 09:20:45] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php
+[2025-01-29 09:20:45] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php
+[2025-01-29 09:20:49] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/kutoswell.php
+[2025-01-29 09:20:51] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php
+[2025-01-29 09:20:51] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php
+[2025-01-29 09:20:54] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/podalplaza.php
+[2025-01-29 09:20:56] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php
+[2025-01-29 09:20:56] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php
+[2025-01-29 09:20:58] INFO openai._base_client - Retrying request to /embeddings in 0.381459 seconds
+[2025-01-29 09:20:59] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/textilehouse.php
+[2025-01-29 09:21:01] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php
+[2025-01-29 09:21:01] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php
+[2025-01-29 09:21:04] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/mendorslibrary.php
+[2025-01-29 09:21:06] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php
+[2025-01-29 09:21:06] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php
+[2025-01-29 09:21:08] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/kovelmansion.php
+[2025-01-29 09:21:10] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php
+[2025-01-29 09:21:10] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php
+[2025-01-29 09:21:13] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/wealthydistrict.php
+[2025-01-29 09:21:15] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php
+[2025-01-29 09:21:15] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php
+[2025-01-29 09:21:17] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/templeofbane.php
+[2025-01-29 09:21:20] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php
+[2025-01-29 09:21:20] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php
+[2025-01-29 09:21:21] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/valhingengraveyard.php
+[2025-01-29 09:21:24] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php
+[2025-01-29 09:21:24] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php
+[2025-01-29 09:21:26] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/stojanowgate.php
+[2025-01-29 09:21:28] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php
+[2025-01-29 09:21:28] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php
+[2025-01-29 09:21:31] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/overview.php
+[2025-01-29 09:21:33] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php
+[2025-01-29 09:21:33] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php
+[2025-01-29 09:21:36] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/buccaneerbase.php
+[2025-01-29 09:21:38] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php
+[2025-01-29 09:21:38] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php
+[2025-01-29 09:21:40] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/koboldcave.php
+[2025-01-29 09:21:42] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php
+[2025-01-29 09:21:42] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php
+[2025-01-29 09:21:44] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/nomadcamp.php
+[2025-01-29 09:21:46] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php
+[2025-01-29 09:21:46] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php
+[2025-01-29 09:21:49] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/pyramid.php
+[2025-01-29 09:21:51] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php
+[2025-01-29 09:21:51] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php
+[2025-01-29 09:21:53] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/ruinedcastle.php
+[2025-01-29 09:21:55] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php
+[2025-01-29 09:21:55] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php
+[2025-01-29 09:21:57] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/zhentilkeep.php
+[2025-01-29 09:21:59] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php
+[2025-01-29 09:21:59] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php
+[2025-01-29 09:22:01] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/southwesternquadrant.php
+[2025-01-29 09:22:04] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php
+[2025-01-29 09:22:04] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php
+[2025-01-29 09:22:06] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/southeasternquadrant.php
+[2025-01-29 09:22:08] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
+[2025-01-29 09:22:08] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
+[2025-01-29 09:22:10] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/northwesternquadrant.php
+[2025-01-29 09:22:12] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
+[2025-01-29 09:22:12] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
+[2025-01-29 09:22:14] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/northeasternquadrant.php
+[2025-01-29 09:22:16] INFO gbox - Successfully crawled: https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
+[2025-01-29 09:22:16] INFO gbox - Processing https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
+[2025-01-29 09:22:18] INFO gbox - Inserting chunk 0 for https://www.gamebanshee.com/poolofradiance/walkthrough/upperandlowerlevels.php
